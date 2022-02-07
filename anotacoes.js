@@ -5,7 +5,7 @@ class Anotacoes {
             this.titulo = titulo;
             this.notas = notas;
         } else {
-            alert('Criação de notas')
+            alert('Criação de notas - dados inválidos')
         }
 
        
